@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../Pyton_workspace/primerosProgramas"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
